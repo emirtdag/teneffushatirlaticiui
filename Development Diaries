@@ -1,0 +1,18 @@
+Development Diaries (Geliştirme Günlükleri)
+
+Gün 1 - 06/12/2023;
+
+ - Proje'nin tabanı olarak eski "Teneffüs Hatırlatıcı" isimli program seçildi.
+ - Projedeki eski uygulamaya ait olan kalıntılar temizlendi.
+ - Proje RAM kullanımı eski uygulamaya göre %50 azaltıldı (60>30)
+ - Proje seslerinin kullanımı kaldırıldı (sesler silinmedi)
+ - Ekranda durabilmesi için kenarlıkları kaldırma seçeneği eklendi.
+ - İlk ders için sayım sistemi ayarlandı.
+
+Gün 2 - 07/12/2023;
+
+ - Geliştirici motivasyonu büyük oranda düştü... (Kişisel Sebepler)
+ - 7 ders için de tam sayım eklendi.
+ - Proje daha optimize hale getirildi.
+ - Proje penceresinin ciğer pencerelerin üstünede durması ayarlandı.
+ - Proje'nin 13.40 sonrasında kendisini otomatik olarak gizlemesi ayarlandı.
