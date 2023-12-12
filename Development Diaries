@@ -14,7 +14,20 @@ Gün 2 - 07/12/2023;
  - Geliştirici motivasyonu büyük oranda düştü... (Kişisel Sebepler)
  - 7 ders için de tam sayım eklendi.
  - Proje daha optimize hale getirildi.
- - Proje penceresinin ciğer pencerelerin üstünde durması ayarlandı.
+ - Proje penceresinin diğer pencerelerin üstünde durması ayarlandı.
  - Proje'nin 13.40 sonrasında kendisini otomatik olarak gizlemesi ayarlandı.
  - Proje hafta içi günler tamamlandı.
 
+Gün 3 - 08/12/2023;
+
+ - Projeye hafta sonu günler eklendi.
+ - Gereksiz kodlar temizlendi.
+ - Arkaplan işlemleri iyileştirildi.
+ - Sesler tamamen kaldırıldı.
+ - Programın ilk sürümü paylaşıldı.
+
+Gün 4 - 12/12/2023
+
+ - Keşfedilen hafta içi günlerde hatalı sayım sorunu çözüldü.
+ - Programın virüs olarak hazırlanması giderilmeye çalışıldı.
+ - Proje kurulum yardımcısı değiştirildi (Smart Install Maker>InstallForge)
