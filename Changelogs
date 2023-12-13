@@ -1,3 +1,16 @@
+Version 1.0.0.1 Pre-Release;
+
+ - Program yükleyicisi değiştirildi.
+ - Programın virüs olarak algılanması giderilmeye çalışıldı.
+ - Lisanslamalar kapatıldı.
+ - Proje hataları düzeltildi.
+
+Version 1.0 Pre-Release
+
+ - Programın virüs olarak algılanması engellendi (Deneysel)
+ - Programdaki son ders saatini hatalı gösteren hata düzeltildi. (İptal)
+ - Program kurulum yardımcısı değiştirildi.
+
 Version 1.0 Beta - In Turkish;
 
  - Programın ilk sürümü.
@@ -5,8 +18,3 @@ Version 1.0 Beta - In Turkish;
 Sürüm Notu : Programın bu sürümü yayımdan kaldırılmıştır.
 
 
-Version 1.0 Pre-Release
-
- - Programın virüs olarak algılanması engellendi (Deneysel)
- - Programdaki son ders saatini hatalı gösteren hata düzeltildi. (İptal)
- - Program kurulum yardımcısı değiştirildi.
